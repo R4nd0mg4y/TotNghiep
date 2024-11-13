@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "appwrite": "^16.0.2",
+    "express": "^4.21.1",
+    "firebase": "^11.0.1",
+    "nodemailer": "^6.9.15"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
